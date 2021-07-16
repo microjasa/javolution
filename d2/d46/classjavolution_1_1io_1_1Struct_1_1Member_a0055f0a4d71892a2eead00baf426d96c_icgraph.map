@@ -1,0 +1,45 @@
+<map id="javolution.io.Struct.Member.offset" name="javolution.io.Struct.Member.offset">
+<area shape="rect" id="node1" title=" " alt="" coords="539,1014,781,1041"/>
+<area shape="rect" id="node2" href="$df/d0c/classjavolution_1_1io_1_1Struct_1_1UTF8String.html#a746422a2f474c589e30538cd8f3be028" title=" " alt="" coords="264,5,447,47"/>
+<area shape="rect" id="node3" href="$db/db9/classjavolution_1_1io_1_1Struct_1_1Bool.html#afeb242e846f54e076f6713fe7614a275" title=" " alt="" coords="254,71,457,98"/>
+<area shape="rect" id="node4" href="$df/d82/classjavolution_1_1io_1_1Struct_1_1Signed8.html#a0b2e361ec4cf28a3e3161f106d82dc81" title=" " alt="" coords="242,122,469,149"/>
+<area shape="rect" id="node5" href="$d1/dd3/classjavolution_1_1io_1_1Struct_1_1Unsigned8.html#af7d49536340de1b0a9b76652d2bae022" title=" " alt="" coords="234,173,477,199"/>
+<area shape="rect" id="node6" href="$d5/d1a/classjavolution_1_1io_1_1Struct_1_1Signed16.html#a904b4c3ac32452d9f56ce63b37ea780b" title=" " alt="" coords="238,223,473,250"/>
+<area shape="rect" id="node7" href="$de/d04/classjavolution_1_1io_1_1Struct_1_1Unsigned16.html#a69befacef28a76d75f6e865dc4c55916" title=" " alt="" coords="230,274,481,301"/>
+<area shape="rect" id="node8" href="$d1/df8/classjavolution_1_1io_1_1Struct_1_1Signed32.html#aa8ba76ff7ed973c5f099182b9be2c782" title=" " alt="" coords="238,325,473,351"/>
+<area shape="rect" id="node9" href="$db/de1/classjavolution_1_1io_1_1Struct_1_1Unsigned32.html#a09f9534f36794c088b0ed5361dd47eb7" title=" " alt="" coords="230,375,481,402"/>
+<area shape="rect" id="node10" href="$d0/d8b/classjavolution_1_1io_1_1Struct_1_1Signed64.html#a4a5ccebee3567561a731d5720f981277" title=" " alt="" coords="238,426,473,453"/>
+<area shape="rect" id="node11" href="$d0/d46/classjavolution_1_1io_1_1Struct_1_1Float32.html#ad8ae15ef3f97c60a2c78771bf5411f13" title=" " alt="" coords="244,477,467,503"/>
+<area shape="rect" id="node12" href="$da/dc9/classjavolution_1_1io_1_1Struct_1_1Float64.html#adeb1dac5ba41d5e8e379322f59ada9bc" title=" " alt="" coords="244,527,467,554"/>
+<area shape="rect" id="node13" href="$d6/d14/classjavolution_1_1io_1_1Struct_1_1Enum8.html#a969783e15c261948efa349a8d006950a" title=" " alt="" coords="246,578,465,605"/>
+<area shape="rect" id="node14" href="$d3/dca/classjavolution_1_1io_1_1Struct_1_1Enum16.html#af58609c3dfb4f2eb402d1f55c0725837" title=" " alt="" coords="242,629,469,655"/>
+<area shape="rect" id="node15" href="$db/d49/classjavolution_1_1io_1_1Struct_1_1Enum32.html#a9baf5336a6343ac3470f6f990c07941e" title=" " alt="" coords="242,679,469,706"/>
+<area shape="rect" id="node16" href="$d6/d40/classjavolution_1_1io_1_1Struct_1_1Enum64.html#a8e7577df04506af98d4da56318c0f60b" title=" " alt="" coords="242,730,469,757"/>
+<area shape="rect" id="node17" href="$d3/dd9/classjavolution_1_1io_1_1Struct_1_1Reference32.html#adc09e71d09dc719e1bcee8f984240f0d" title=" " alt="" coords="232,781,479,823"/>
+<area shape="rect" id="node18" href="$df/d25/classjavolution_1_1io_1_1Struct_1_1Reference64.html#a2244022cebd8f829022ec45c3e054b74" title=" " alt="" coords="232,847,479,888"/>
+<area shape="rect" id="node19" href="$d7/d70/classjavolution_1_1io_1_1Struct_1_1BitField.html#a579b86e1a44a8b13f1a7b1cac6a3f2b9" title=" " alt="" coords="272,912,439,953"/>
+<area shape="rect" id="node24" href="$df/d0c/classjavolution_1_1io_1_1Struct_1_1UTF8String.html#ab941bbe254b0b1ed8862a1ef17a554c2" title=" " alt="" coords="264,977,447,1019"/>
+<area shape="rect" id="node25" href="$db/db9/classjavolution_1_1io_1_1Struct_1_1Bool.html#aaae89c71d5af3846d0b92cb64531705d" title=" " alt="" coords="254,1043,457,1070"/>
+<area shape="rect" id="node26" href="$df/d82/classjavolution_1_1io_1_1Struct_1_1Signed8.html#a64d1234f8e4907bdd56488ef51ca902c" title=" " alt="" coords="243,1094,468,1121"/>
+<area shape="rect" id="node27" href="$d1/dd3/classjavolution_1_1io_1_1Struct_1_1Unsigned8.html#a8b859488e956a2fce182570e0bbc5b6d" title=" " alt="" coords="234,1145,477,1171"/>
+<area shape="rect" id="node28" href="$d5/d1a/classjavolution_1_1io_1_1Struct_1_1Signed16.html#a4bdbd5b6da26b6a5730fc1d284a66a08" title=" " alt="" coords="239,1195,472,1222"/>
+<area shape="rect" id="node29" href="$de/d04/classjavolution_1_1io_1_1Struct_1_1Unsigned16.html#a7c848632d680786faaca8b03f3386608" title=" " alt="" coords="230,1246,481,1273"/>
+<area shape="rect" id="node30" href="$d1/df8/classjavolution_1_1io_1_1Struct_1_1Signed32.html#a180e4ee3635467f3867f61a45d803fdf" title=" " alt="" coords="239,1297,472,1323"/>
+<area shape="rect" id="node31" href="$db/de1/classjavolution_1_1io_1_1Struct_1_1Unsigned32.html#a45fc3dde6b035abcb5c54785ea91eb2c" title=" " alt="" coords="230,1347,481,1374"/>
+<area shape="rect" id="node32" href="$d0/d8b/classjavolution_1_1io_1_1Struct_1_1Signed64.html#ab3da9c27992c3a8815d03ba842908545" title=" " alt="" coords="239,1398,472,1425"/>
+<area shape="rect" id="node33" href="$d7/d70/classjavolution_1_1io_1_1Struct_1_1BitField.html#a9d1309a69e9fb5e29fc4ca89b72fe495" title=" " alt="" coords="272,1449,439,1491"/>
+<area shape="rect" id="node34" href="$d0/d46/classjavolution_1_1io_1_1Struct_1_1Float32.html#ab0185e0b21b995dcd2648259f05175ed" title=" " alt="" coords="244,1515,467,1542"/>
+<area shape="rect" id="node35" href="$da/dc9/classjavolution_1_1io_1_1Struct_1_1Float64.html#af46944a2dfb1e2c822585b5086e4927b" title=" " alt="" coords="244,1566,467,1593"/>
+<area shape="rect" id="node36" href="$d3/dd9/classjavolution_1_1io_1_1Struct_1_1Reference32.html#a5a3e205fa56c1e097ecc570ae40780c2" title=" " alt="" coords="228,1617,483,1643"/>
+<area shape="rect" id="node37" href="$df/d25/classjavolution_1_1io_1_1Struct_1_1Reference64.html#a323fe6cad921ae6ad04e08a2dae937b7" title=" " alt="" coords="228,1667,483,1694"/>
+<area shape="rect" id="node38" href="$d6/d14/classjavolution_1_1io_1_1Struct_1_1Enum8.html#a07160f18745648622690b3493f4a757b" title=" " alt="" coords="246,1718,465,1745"/>
+<area shape="rect" id="node39" href="$d3/dca/classjavolution_1_1io_1_1Struct_1_1Enum16.html#a3be11235c8a9542bc34b3e74acb9c7b9" title=" " alt="" coords="242,1769,469,1795"/>
+<area shape="rect" id="node40" href="$db/d49/classjavolution_1_1io_1_1Struct_1_1Enum32.html#a1a6142593424e8c2cdf9b9d423b2152b" title=" " alt="" coords="242,1819,469,1846"/>
+<area shape="rect" id="node41" href="$d6/d40/classjavolution_1_1io_1_1Struct_1_1Enum64.html#a2274323683d4c663a642571cf64a61ed" title=" " alt="" coords="242,1870,469,1897"/>
+<area shape="rect" id="node42" href="$d3/dd9/classjavolution_1_1io_1_1Struct_1_1Reference32.html#aac27124ed4a843f8e26d4eb7e41fae3b" title=" " alt="" coords="220,1921,491,1947"/>
+<area shape="rect" id="node43" href="$df/d25/classjavolution_1_1io_1_1Struct_1_1Reference64.html#ae0f57e7f570b6824fdcc28ceb78944a0" title=" " alt="" coords="220,1971,491,1998"/>
+<area shape="rect" id="node20" href="$d7/d70/classjavolution_1_1io_1_1Struct_1_1BitField.html#ab41640eddb2e34867880496147a40f5e" title=" " alt="" coords="5,813,172,855"/>
+<area shape="rect" id="node21" href="$d7/d70/classjavolution_1_1io_1_1Struct_1_1BitField.html#a71dfb4641190553064d903a1d11ce1f1" title=" " alt="" coords="5,879,172,920"/>
+<area shape="rect" id="node22" href="$d7/d70/classjavolution_1_1io_1_1Struct_1_1BitField.html#a8ff7e1969b6acf1be3ef107f83632ea3" title=" " alt="" coords="5,944,172,985"/>
+<area shape="rect" id="node23" href="$d7/d70/classjavolution_1_1io_1_1Struct_1_1BitField.html#a10e7a521c3228a836d79e98f4eb6c459" title=" " alt="" coords="5,1009,172,1051"/>
+</map>

@@ -1,0 +1,25 @@
+var searchData=
+[
+  ['b0_201',['B0',['../d2/d7a/classjavolution_1_1text_1_1TextBuilder.html#ab1f2b8261f22253f8a567e5282da9750',1,'javolution::text::TextBuilder']]],
+  ['b1_202',['B1',['../d2/d7a/classjavolution_1_1text_1_1TextBuilder.html#a378b3c8fbe885c4b1c58aa75496b9992',1,'javolution::text::TextBuilder']]],
+  ['base_5fcapacity_5fmax_203',['BASE_CAPACITY_MAX',['../d0/dd9/classjavolution_1_1util_1_1internal_1_1table_1_1FractalTableImpl.html#a9fcac1ac6e5934b1d7a5b3549b1e3dd1',1,'javolution::util::internal::table::FractalTableImpl']]],
+  ['base_5fcapacity_5fmin_204',['BASE_CAPACITY_MIN',['../d0/dd9/classjavolution_1_1util_1_1internal_1_1table_1_1FractalTableImpl.html#a67bc454b622b6ac760ea96cf9e56331d',1,'javolution::util::internal::table::FractalTableImpl']]],
+  ['bit_5flength_205',['BIT_LENGTH',['../d4/d14/classjavolution_1_1lang_1_1MathLib.html#a2303c9da40f960d60a1b7c253baf033c',1,'javolution::lang::MathLib']]],
+  ['bitcount_206',['bitCount',['../d4/d14/classjavolution_1_1lang_1_1MathLib.html#a558d73188c11daa40f85ace41f0bead0',1,'javolution::lang::MathLib']]],
+  ['bitfield_207',['BitField',['../d7/d70/classjavolution_1_1io_1_1Struct_1_1BitField.html',1,'javolution.io.Struct.BitField'],['../d7/d70/classjavolution_1_1io_1_1Struct_1_1BitField.html#a433919c24d760888cbc0a1d3701e6b77',1,'javolution.io.Struct.BitField.BitField()']]],
+  ['bitindex_208',['bitIndex',['../d2/d46/classjavolution_1_1io_1_1Struct_1_1Member.html#a854e3e15857ae39ac53a6c33211faf22',1,'javolution::io::Struct::Member']]],
+  ['bitlength_209',['bitLength',['../d2/d46/classjavolution_1_1io_1_1Struct_1_1Member.html#a75be2230f62956649aa5dbdea3c6f4ac',1,'javolution.io.Struct.Member.bitLength()'],['../d4/d14/classjavolution_1_1lang_1_1MathLib.html#a0ec25ae04f72c11735c2ba9384e87274',1,'javolution.lang.MathLib.bitLength(int i)'],['../d4/d14/classjavolution_1_1lang_1_1MathLib.html#a65c093823daba96fd6d548b5904acccf',1,'javolution.lang.MathLib.bitLength(long l)']]],
+  ['bits_210',['bits',['../d9/da2/classjavolution_1_1util_1_1internal_1_1bitset_1_1BitSetServiceImpl.html#ae0affcf87836f5b5a68d9bbca61d75a8',1,'javolution::util::internal::bitset::BitSetServiceImpl']]],
+  ['bitsetiteratorimpl_211',['BitSetIteratorImpl',['../df/d50/classjavolution_1_1util_1_1internal_1_1bitset_1_1BitSetIteratorImpl.html',1,'javolution.util.internal.bitset.BitSetIteratorImpl'],['../df/d50/classjavolution_1_1util_1_1internal_1_1bitset_1_1BitSetIteratorImpl.html#aee80de835234d34a5b71f656c542e7e3',1,'javolution.util.internal.bitset.BitSetIteratorImpl.BitSetIteratorImpl()']]],
+  ['bitsetiteratorimpl_2ejava_212',['BitSetIteratorImpl.java',['../d1/db5/BitSetIteratorImpl_8java.html',1,'']]],
+  ['bitsetservice_213',['BitSetService',['../d7/d3d/interfacejavolution_1_1util_1_1service_1_1BitSetService.html',1,'javolution::util::service']]],
+  ['bitsetservice_2ejava_214',['BitSetService.java',['../dc/de0/BitSetService_8java.html',1,'']]],
+  ['bitsetserviceimpl_215',['BitSetServiceImpl',['../d9/da2/classjavolution_1_1util_1_1internal_1_1bitset_1_1BitSetServiceImpl.html',1,'javolution.util.internal.bitset.BitSetServiceImpl'],['../d9/da2/classjavolution_1_1util_1_1internal_1_1bitset_1_1BitSetServiceImpl.html#adeb52321e65ba4777bf415220d15b9b5',1,'javolution.util.internal.bitset.BitSetServiceImpl.BitSetServiceImpl()']]],
+  ['bitsetserviceimpl_2ejava_216',['BitSetServiceImpl.java',['../de/d6f/BitSetServiceImpl_8java.html',1,'']]],
+  ['block_5fmask_217',['BLOCK_MASK',['../dc/d6d/classjavolution_1_1text_1_1Text.html#a4e044b9458aba100ef67e293ce5d527a',1,'javolution::text::Text']]],
+  ['block_5fsize_218',['BLOCK_SIZE',['../dc/d6d/classjavolution_1_1text_1_1Text.html#afae9bbf4c547179dd8fcd08f1d89301f',1,'javolution::text::Text']]],
+  ['bool_219',['Bool',['../db/db9/classjavolution_1_1io_1_1Struct_1_1Bool.html',1,'javolution.io.Struct.Bool'],['../d7/d99/classjavolution_1_1io_1_1Struct.html#a30e308c4e4ab89f54924346f0a3a1535',1,'javolution.io.Struct.BOOL()'],['../db/db9/classjavolution_1_1io_1_1Struct_1_1Bool.html#ab0eb20c30b44fda95cb2a2f12bbcb85e',1,'javolution.io.Struct.Bool.Bool()'],['../db/db9/classjavolution_1_1io_1_1Struct_1_1Bool.html#a26cb6dc1196e19b029b29924824470e7',1,'javolution.io.Struct.Bool.Bool(int nbrOfBits)']]],
+  ['buffer_5flength_220',['BUFFER_LENGTH',['../d4/d15/classjavolution_1_1xml_1_1internal_1_1stream_1_1XMLStreamWriterImpl.html#a4537fe82652c7bb3cb4d3bba356618e5',1,'javolution::xml::internal::stream::XMLStreamWriterImpl']]],
+  ['byteorder_221',['byteOrder',['../d7/d99/classjavolution_1_1io_1_1Struct.html#a81fd85611da71c484375e2c0ef9124e6',1,'javolution::io::Struct']]],
+  ['bytevalue_222',['byteValue',['../d7/d70/classjavolution_1_1io_1_1Struct_1_1BitField.html#ab41640eddb2e34867880496147a40f5e',1,'javolution::io::Struct::BitField']]]
+];

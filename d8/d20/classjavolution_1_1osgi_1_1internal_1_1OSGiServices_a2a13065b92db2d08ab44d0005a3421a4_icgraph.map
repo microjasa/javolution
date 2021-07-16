@@ -1,0 +1,38 @@
+<map id="javolution.osgi.internal.OSGiServices.getLogContext" name="javolution.osgi.internal.OSGiServices.getLogContext">
+<area shape="rect" id="node1" title=" " alt="" coords="2799,397,3007,438"/>
+<area shape="rect" id="node2" href="$db/de8/classjavolution_1_1context_1_1LogContext.html#a3ad63f63b01950647a13c980c14c111a" title=" " alt="" coords="2483,397,2751,438"/>
+<area shape="rect" id="node3" href="$db/de8/classjavolution_1_1context_1_1LogContext.html#af5f74866879390693180e6f5edec892b" title=" " alt="" coords="2166,253,2429,280"/>
+<area shape="rect" id="node12" href="$db/de8/classjavolution_1_1context_1_1LogContext.html#ac7079a502db28e71f5e9f084b96c0f61" title=" " alt="" coords="2169,353,2425,380"/>
+<area shape="rect" id="node13" href="$db/de8/classjavolution_1_1context_1_1LogContext.html#aad30fc061509a1c2df28a7d1eb45683a" title=" " alt="" coords="2171,404,2424,431"/>
+<area shape="rect" id="node14" href="$db/de8/classjavolution_1_1context_1_1LogContext.html#a233e69dc7bac5ecabb9905c49bb9503f" title=" " alt="" coords="2174,495,2421,521"/>
+<area shape="rect" id="node35" href="$db/de8/classjavolution_1_1context_1_1LogContext.html#a304441b87d1c1eebac3e198a5d5b58c6" title=" " alt="" coords="2160,579,2435,605"/>
+<area shape="rect" id="node4" href="$d5/dc7/classjavolution_1_1lang_1_1Configurable.html#a9ee63caf2e345a492b8887590bab86b6" title=" " alt="" coords="1841,5,2082,61"/>
+<area shape="rect" id="node5" href="$da/d71/classjavolution_1_1osgi_1_1internal_1_1ConfigurableListenerImpl.html#ac04fa119928bae4b63949fa083de990f" title=" " alt="" coords="1827,85,2096,141"/>
+<area shape="rect" id="node6" href="$da/d71/classjavolution_1_1osgi_1_1internal_1_1ConfigurableListenerImpl.html#aa2a09161531c326a08d3db86efa24b27" title=" " alt="" coords="1827,165,2096,221"/>
+<area shape="rect" id="node7" href="$d2/dc3/classjavolution_1_1lang_1_1Initializer.html#a9b0b912560d37b4b80ee61416ffa1503" title=" " alt="" coords="1840,377,2083,418"/>
+<area shape="rect" id="node10" href="$d2/dc3/classjavolution_1_1lang_1_1Initializer.html#a3762b5ff0428c43024b98863e8674864" title=" " alt="" coords="1854,246,2069,287"/>
+<area shape="rect" id="node11" href="$de/d3a/classjavolution_1_1test_1_1Perfometer.html#a79430ba4172d29e5d53ee83ff424e6a9" title=" " alt="" coords="1848,311,2075,353"/>
+<area shape="rect" id="node8" href="$d8/d20/classjavolution_1_1osgi_1_1internal_1_1OSGiServices.html#acb73fa260ca4cdc4056c3b16d69694b6" title=" " alt="" coords="1509,239,1737,295"/>
+<area shape="rect" id="node9" href="$d2/d94/classjavolution_1_1osgi_1_1internal_1_1JavolutionActivator.html#a073a569fac72d21f478798745b026435" title=" " alt="" coords="1203,223,1382,265"/>
+<area shape="rect" id="node15" href="$d0/d65/classjavolution_1_1xml_1_1internal_1_1stream_1_1XMLStreamReaderImpl.html#a87bff0503f315316c965b67063423578" title=" " alt="" coords="1811,442,2112,483"/>
+<area shape="rect" id="node32" href="$d0/d65/classjavolution_1_1xml_1_1internal_1_1stream_1_1XMLStreamReaderImpl.html#a71fce69dd0a88aea44b4e7624a6af875" title=" " alt="" coords="1828,507,2095,549"/>
+<area shape="rect" id="node34" href="$de/d3a/classjavolution_1_1test_1_1Perfometer.html#a839405eeba365523effc8f2c446f6829" title=" " alt="" coords="1848,573,2075,600"/>
+<area shape="rect" id="node16" href="$d0/d65/classjavolution_1_1xml_1_1internal_1_1stream_1_1XMLStreamReaderImpl.html#accff128314df06b3be2be7b81bb66cb2" title=" " alt="" coords="1495,406,1751,447"/>
+<area shape="rect" id="node31" href="$d0/d65/classjavolution_1_1xml_1_1internal_1_1stream_1_1XMLStreamReaderImpl.html#ad9938970381ce5f73b5e1a17fe250fea" title=" " alt="" coords="1161,471,1424,513"/>
+<area shape="rect" id="node17" href="$d0/d65/classjavolution_1_1xml_1_1internal_1_1stream_1_1XMLStreamReaderImpl.html#ac9c3ee5901fa0e8edb98e080b9876dc0" title=" " alt="" coords="1149,289,1436,330"/>
+<area shape="rect" id="node18" href="$d0/d65/classjavolution_1_1xml_1_1internal_1_1stream_1_1XMLStreamReaderImpl.html#a390337cd640ada29ab3aa42a584c8ed8" title=" " alt="" coords="877,406,1101,447"/>
+<area shape="rect" id="node30" href="$d0/d65/classjavolution_1_1xml_1_1internal_1_1stream_1_1XMLStreamReaderImpl.html#a3a37f6eded5c5c6151cdf063bf0844b8" title=" " alt="" coords="1156,406,1429,447"/>
+<area shape="rect" id="node19" href="$d0/d65/classjavolution_1_1xml_1_1internal_1_1stream_1_1XMLStreamReaderImpl.html#a72b51558d2acd9213ab216592156ca55" title=" " alt="" coords="551,242,829,283"/>
+<area shape="rect" id="node21" href="$d9/d60/classjavolution_1_1xml_1_1XMLFormat_1_1InputElement.html#a1a9f1d9cc2954e37458f7e2eacbd4563" title=" " alt="" coords="591,307,789,349"/>
+<area shape="rect" id="node22" href="$d0/d65/classjavolution_1_1xml_1_1internal_1_1stream_1_1XMLStreamReaderImpl.html#a22803c21708a1c61db9f45c43e0d3ecc" title=" " alt="" coords="577,373,803,414"/>
+<area shape="rect" id="node24" href="$d6/d79/classjavolution_1_1xml_1_1sax_1_1XMLReaderImpl.html#a7060e3d22c1cb128897bfc57a7e0cc64" title=" " alt="" coords="579,438,801,479"/>
+<area shape="rect" id="node28" href="$d9/d60/classjavolution_1_1xml_1_1XMLFormat_1_1InputElement.html#ace8288707b8a3cb46bf483440533fd1e" title=" " alt="" coords="586,503,794,545"/>
+<area shape="rect" id="node29" href="$d0/d65/classjavolution_1_1xml_1_1internal_1_1stream_1_1XMLStreamReaderImpl.html#a5e11adbb1f420b45116c6412caf6ccf1" title=" " alt="" coords="575,569,805,610"/>
+<area shape="rect" id="node20" href="$d9/d60/classjavolution_1_1xml_1_1XMLFormat_1_1InputElement.html#a1858fc90a06227e089492a4f40fc77ac" title=" " alt="" coords="293,242,491,283"/>
+<area shape="rect" id="node23" href="$d9/d60/classjavolution_1_1xml_1_1XMLFormat_1_1InputElement.html#af7d0a9ca04a7340a049b615e947c88ca" title=" " alt="" coords="293,373,491,414"/>
+<area shape="rect" id="node25" href="$d6/d79/classjavolution_1_1xml_1_1sax_1_1XMLReaderImpl.html#af59c6a5e7282b94dea9be9452f9c945e" title=" " alt="" coords="281,438,503,479"/>
+<area shape="rect" id="node26" href="$d5/de1/classjavolution_1_1xml_1_1sax_1_1SAX2ReaderImpl.html#ac88f97df2622809ba9f127e173f20f17" title=" " alt="" coords="5,405,233,446"/>
+<area shape="rect" id="node27" href="$d6/d79/classjavolution_1_1xml_1_1sax_1_1XMLReaderImpl.html#a255e7cbc9ce8eced22fae7c8138b6cfb" title=" " alt="" coords="9,470,230,511"/>
+<area shape="rect" id="node33" href="$d0/d65/classjavolution_1_1xml_1_1internal_1_1stream_1_1XMLStreamReaderImpl.html#a50e36bac0d5ad3781eec541f8588c1c5" title=" " alt="" coords="1484,527,1763,569"/>
+<area shape="rect" id="node36" href="$d0/d71/classjavolution_1_1text_1_1internal_1_1TextContextImpl.html#a05ab7e7659b3adab76f892ac041ca0d1" title=" " alt="" coords="1850,625,2073,666"/>
+</map>

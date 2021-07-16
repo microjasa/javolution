@@ -1,0 +1,14 @@
+var searchData=
+[
+  ['deactivate_1999',['deactivate',['../d4/d3c/classjavolution_1_1osgi_1_1internal_1_1ServiceTrackerImpl.html#a87c8d1e148db8f9ed6127a67ff61c067',1,'javolution::osgi::internal::ServiceTrackerImpl']]],
+  ['debug_2000',['debug',['../db/de8/classjavolution_1_1context_1_1LogContext.html#af5f74866879390693180e6f5edec892b',1,'javolution::context::LogContext']]],
+  ['default_2001',['Default',['../d2/d5a/classjavolution_1_1xml_1_1XMLFormat_1_1Default.html#aeff5d094f015b9c1d150208bf1a0e506',1,'javolution::xml::XMLFormat::Default']]],
+  ['delete_2002',['delete',['../dc/d6d/classjavolution_1_1text_1_1Text.html#adcc6b215bbc196426149d1ac61c505d1',1,'javolution.text.Text.delete()'],['../d2/d7a/classjavolution_1_1text_1_1TextBuilder.html#ac032127079d72ebc460fd3b04d41ef2a',1,'javolution.text.TextBuilder.delete()']]],
+  ['descendingiterator_2003',['descendingIterator',['../da/dd1/classjavolution_1_1util_1_1FastTable.html#aab69bd8f8dfe5f169cef630a16ad4278',1,'javolution.util.FastTable.descendingIterator()'],['../db/da7/classjavolution_1_1util_1_1internal_1_1table_1_1AtomicTableImpl.html#a4709f730444137cf4fa2dfeb65f3a077',1,'javolution.util.internal.table.AtomicTableImpl.descendingIterator()'],['../d9/d51/classjavolution_1_1util_1_1internal_1_1table_1_1SharedTableImpl.html#ab7f98ac0ed7de1e93fd4da310f6611fb',1,'javolution.util.internal.table.SharedTableImpl.descendingIterator()'],['../d8/d86/classjavolution_1_1util_1_1internal_1_1table_1_1TableView.html#a5d4edcfc284fe7e7bdf0c7551c7b4217',1,'javolution.util.internal.table.TableView.descendingIterator()']]],
+  ['detachentry_2004',['detachEntry',['../dd/d8f/classjavolution_1_1util_1_1internal_1_1map_1_1FastMapImpl.html#a88aea01ff5f24ce403a8f87eb1334d1c',1,'javolution::util::internal::map::FastMapImpl']]],
+  ['detectencoding_2005',['detectEncoding',['../d0/d65/classjavolution_1_1xml_1_1internal_1_1stream_1_1XMLStreamReaderImpl.html#a272b41d6c96083494279a650a3954888',1,'javolution::xml::internal::stream::XMLStreamReaderImpl']]],
+  ['digitlength_2006',['digitLength',['../d4/d14/classjavolution_1_1lang_1_1MathLib.html#a4ffe33bc15c984923021c4c3f63eb3bc',1,'javolution.lang.MathLib.digitLength(int i)'],['../d4/d14/classjavolution_1_1lang_1_1MathLib.html#af1d164cb4b43445286bfdd0008709de6',1,'javolution.lang.MathLib.digitLength(long l)']]],
+  ['distinct_2007',['distinct',['../dc/d19/classjavolution_1_1util_1_1FastCollection.html#ac9ec9b80fc389aeebd07fe6ade178f26',1,'javolution::util::FastCollection']]],
+  ['distinctcollectionimpl_2008',['DistinctCollectionImpl',['../de/dfd/classjavolution_1_1util_1_1internal_1_1collection_1_1DistinctCollectionImpl.html#a473ac6dbb2acab1b6e712b31fb7cbac5',1,'javolution::util::internal::collection::DistinctCollectionImpl']]],
+  ['doublevalue_2009',['doubleValue',['../d4/d60/classjavolution_1_1util_1_1Index.html#a0489fb69e8e9db0b1d6ac795b0254515',1,'javolution::util::Index']]]
+];

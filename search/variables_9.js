@@ -1,0 +1,25 @@
+var searchData=
+[
+  ['identity_2821',['IDENTITY',['../d7/d6c/classjavolution_1_1util_1_1function_1_1Equalities.html#a883a3e03f6fcece6ad16464a9669f808',1,'javolution::util::function::Equalities']]],
+  ['immutable_2822',['immutable',['../d3/d15/classjavolution_1_1util_1_1internal_1_1collection_1_1AtomicCollectionImpl.html#a00007096d97db14d2d2b3b506b858b5d',1,'javolution.util.internal.collection.AtomicCollectionImpl.immutable()'],['../d8/d68/classjavolution_1_1util_1_1internal_1_1map_1_1AtomicMapImpl.html#ad61d34f28a122c27a828d7fbbed11bbc',1,'javolution.util.internal.map.AtomicMapImpl.immutable()']]],
+  ['indentation_2823',['INDENTATION',['../df/da7/interfacejavolution_1_1xml_1_1stream_1_1XMLOutputFactory.html#a5dbcb24997b15726b9c85dbe67b82c0b',1,'javolution::xml::stream::XMLOutputFactory']]],
+  ['index_2824',['index',['../d0/dce/classjavolution_1_1text_1_1Cursor.html#afbf08559f9342d7865bf908d5e8b355c',1,'javolution.text.Cursor.index()'],['../df/d09/classjavolution_1_1util_1_1internal_1_1collection_1_1ReversedCollectionImpl_1_1IteratorImpl.html#ae27c22251c8dbabcb5bac1a84bce4361',1,'javolution.util.internal.collection.ReversedCollectionImpl.IteratorImpl.index()']]],
+  ['infinity_2825',['Infinity',['../d4/d14/classjavolution_1_1lang_1_1MathLib.html#aafb6ec45c371454081f61ffa9d057f72',1,'javolution::lang::MathLib']]],
+  ['info_2826',['INFO',['../d0/deb/enumjavolution_1_1context_1_1LogContext_1_1Level.html#add70e49f3f8180e7c28447816a2ac7dc',1,'javolution::context::LogContext::Level']]],
+  ['initial_5fblock_5fcapacity_2827',['INITIAL_BLOCK_CAPACITY',['../d7/df6/classjavolution_1_1util_1_1internal_1_1map_1_1FractalMapImpl.html#a255a65859f93a08ca9f68c0c0a076002',1,'javolution::util::internal::map::FractalMapImpl']]],
+  ['initiatedcount_2828',['initiatedCount',['../d5/d0b/classjavolution_1_1context_1_1internal_1_1ConcurrentContextImpl.html#a154c71ebd676c0dfecdc91b67e49045e',1,'javolution::context::internal::ConcurrentContextImpl']]],
+  ['input_2829',['input',['../de/d3a/classjavolution_1_1test_1_1Perfometer.html#a14221970b599be3b5872c560cc0a7498',1,'javolution::test::Perfometer']]],
+  ['instance_2830',['instance',['../d6/d3b/classjavolution_1_1context_1_1SecurityContext_1_1Permission.html#a9d57482dc6bd829be77dd82e8ff0841d',1,'javolution::context::SecurityContext::Permission']]],
+  ['instances_2831',['INSTANCES',['../d4/d60/classjavolution_1_1util_1_1Index.html#a5bfd0203f14344bcd10e1a39d1b9d23f',1,'javolution::util::Index']]],
+  ['int_5fmax_5fdiv10_2832',['INT_MAX_DIV10',['../d2/d86/classjavolution_1_1text_1_1TypeFormat.html#a9785b8efe34f2580d41640ab5fda0787',1,'javolution::text::TypeFormat']]],
+  ['intern_2833',['INTERN',['../dc/d6d/classjavolution_1_1text_1_1Text.html#a4b4f5060fa4400fa75620b76ec0219e4',1,'javolution::text::Text']]],
+  ['inv_5flog10_2834',['INV_LOG10',['../d4/d14/classjavolution_1_1lang_1_1MathLib.html#aa3a51ab117029d086c3ceb2d66c85f31',1,'javolution::lang::MathLib']]],
+  ['invln2_2835',['invln2',['../d4/d14/classjavolution_1_1lang_1_1MathLib.html#a104bc5e8218aae5c8cd6388676166726',1,'javolution::lang::MathLib']]],
+  ['is_5fcoalescing_2836',['IS_COALESCING',['../d3/dba/interfacejavolution_1_1xml_1_1stream_1_1XMLInputFactory.html#a7e490de3258d65f077145af368762e18',1,'javolution::xml::stream::XMLInputFactory']]],
+  ['is_5frepairing_5fnamespaces_2837',['IS_REPAIRING_NAMESPACES',['../df/da7/interfacejavolution_1_1xml_1_1stream_1_1XMLOutputFactory.html#ac2c2d0fd596703715c81e6736f7b37ca',1,'javolution::xml::stream::XMLOutputFactory']]],
+  ['is_5fvalidating_2838',['IS_VALIDATING',['../d3/dba/interfacejavolution_1_1xml_1_1stream_1_1XMLInputFactory.html#a7f04f9c011f66304cee97c350b8b34ca',1,'javolution::xml::stream::XMLInputFactory']]],
+  ['isbusy_2839',['isBusy',['../db/d4f/classjavolution_1_1context_1_1internal_1_1ConcurrentThreadImpl.html#a8525360ef57b03bd317bad9316a5121f',1,'javolution::context::internal::ConcurrentThreadImpl']]],
+  ['iso_5fcontrols_2840',['ISO_CONTROLS',['../dc/d34/classjavolution_1_1text_1_1CharSet.html#a61190e868a701880284df377fa2cd21c',1,'javolution::text::CharSet']]],
+  ['iterated_2841',['iterated',['../d1/d83/classjavolution_1_1util_1_1internal_1_1collection_1_1DistinctCollectionImpl_1_1IteratorImpl.html#af8475cb9e97d46d717bea31b2d75c293',1,'javolution::util::internal::collection::DistinctCollectionImpl::IteratorImpl']]],
+  ['iterator_2842',['iterator',['../d1/d89/classjavolution_1_1util_1_1internal_1_1collection_1_1SortedCollectionImpl_1_1IteratorImpl.html#acacda72315778ef0e7507678aaac7a4f',1,'javolution::util::internal::collection::SortedCollectionImpl::IteratorImpl']]]
+];
